@@ -1,0 +1,49 @@
+header{
+  background-color: lightgray;
+  width: 478px;
+  height: 75px;
+  text-align: center;
+  display:flex;
+  justify-content: center;
+  align-items: center;
+}
+section{
+  width: 480px;
+}
+div {
+  background-color: lightgray;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+#cd div{
+  min-height: 125px;
+}
+#b{
+  height: 150px;
+}
+
+#ef div{
+  width: 238px;
+  height: 250px;
+}
+#gh div{
+  width: 238px;
+  height: 250px;
+}
+#e{
+  float:left;
+}
+#f{
+  float:right;
+}
+
+#g{
+  float:left;
+}
+#h{
+  float: right;
+}
+#i{
+  height: 80px;
+}
