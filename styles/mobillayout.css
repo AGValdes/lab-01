@@ -1,26 +1,22 @@
 header{
-  background-color: lightgray;
-  width: 478px;
-  height: 75px;
-  text-align: center;
-  display:flex;
-  justify-content: center;
-  align-items: center;
+  background-color: red;
 }
-section{
+main{
   width: 480px;
-}
-div {
-  background-color: lightgray;
-  display: flex;
-  justify-content: center;
-  align-items: center;
+  margin: auto;
 }
 #cd div{
   min-height: 125px;
 }
 #b{
   height: 150px;
+  background-color: orange;
+}
+#c {
+  background-color: yellow;
+}
+#d{
+  background-color: chartreuse;
 }
 
 #ef div{
@@ -33,17 +29,22 @@ div {
 }
 #e{
   float:left;
+  background-color: cyan;
 }
 #f{
   float:right;
+  background-color: blue;
 }
 
 #g{
   float:left;
+  background-color: indigo;
 }
 #h{
   float: right;
+  background-color: purple;
 }
 #i{
   height: 80px;
+  background-color: hotpink;
 }
