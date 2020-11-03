@@ -1,0 +1,70 @@
+@media (min-width: 960px){
+  main{
+    width: 960px;
+  }
+  header{
+    background-color: darkgray;
+    width: 958px;
+    height: 98px;
+    text-align: center;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+  }
+  div {
+    background-color: darkgray;
+  }
+  #bsection{
+    width: 200px;
+  }
+  #b{
+    height: 598px;
+    width: 198px;
+    float: left;
+  }
+  #cd{
+    width: 760px;
+    height: 200px;
+    float:right;
+  }
+  #cd div{
+    width: 378px;
+    height: 198px;
+  }
+  #c{
+    float: left;
+  }
+  #d{
+    float: right;
+  }
+  #ef {
+    width: 380px;
+    height: 250px;
+    float: left;
+  }
+  #gh {
+    width: 380px;
+    height: 250px;
+    float: right;
+  }
+  #ef div{
+    width: 188px;
+    height: 248px;
+  }
+  #gh div{
+    width: 188px;
+    height: 248px;
+  }
+  #isection{
+    float: right;
+    width: 760px;
+    height: 150px;
+  }
+  #i{
+    width: 758px;
+    height: 148px;
+  }
+  
+
+
+}
