@@ -1,50 +1,54 @@
 header{
   background-color: red;
 }
-main{
-  width: 480px;
-  margin: auto;
-}
 #cd div{
   min-height: 125px;
 }
 #b{
   height: 150px;
+  width: 100vw;
   background-color: orange;
 }
 #c {
   background-color: yellow;
+  width: 100vw;
 }
 #d{
   background-color: chartreuse;
+  width: 100vw;
 }
-
+#ef{
+  display:flex;
+}
 #ef div{
-  width: 238px;
+  width: 100%;
   height: 250px;
 }
 #gh div{
-  width: 238px;
+  width: 100%;
   height: 250px;
 }
+#gh {
+  display: flex;
+}
 #e{
-  float:left;
   background-color: cyan;
+  width: 50vw;
 }
 #f{
-  float:right;
   background-color: blue;
+  width: 50%;
 }
-
 #g{
-  float:left;
   background-color: indigo;
+  width: 50vw;
 }
 #h{
-  float: right;
   background-color: purple;
+  width: 50vw;
 }
 #i{
   height: 80px;
   background-color: hotpink;
+  width: 100vw;
 }
