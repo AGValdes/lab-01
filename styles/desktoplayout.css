@@ -1,68 +1,81 @@
 @media (min-width: 960px){
   main{
-    width: 960px;
-  }
+    width: 100vw;
+   
+   display:flex;
+  
+  } 
   header{
-    background-color: darkgray;
-    width: 958px;
+    width: 102vw;
+    background-color: hotpink;
     height: 98px;
-    text-align: center;
-    display:flex;
-    justify-content: center;
-    align-items: center;
-  }
-  div {
-    background-color: darkgray;
   }
   #bsection{
+    display: inline;
     width: 200px;
   }
   #b{
     height: 598px;
     width: 198px;
-    float: left;
+    background-color: purple;
   }
   #cd{
-    width: 760px;
+    width: 85vw;
     height: 200px;
-    float:right;
+    display: flex;
   }
-  #cd div{
-    width: 378px;
+  #cdefgh{
+    display:flex;
+    flex-wrap: wrap;
+  }
+ #cd div{
     height: 198px;
   }
   #c{
-    float: left;
+    background-color: indigo;
   }
   #d{
-    float: right;
+    background-color: blue;
+  }
+  #e{
+    background-color: cyan;
+  }
+  #f{
+    background-color: chartreuse;
   }
   #ef {
-    width: 380px;
+   width: 50%;
     height: 250px;
-    float: left;
   }
   #gh {
-    width: 380px;
+    width: 50%;
     height: 250px;
-    float: right;
+  }
+  #efgh{
+    display: flex;
   }
   #ef div{
-    width: 188px;
+
     height: 248px;
   }
   #gh div{
-    width: 188px;
+ 
     height: 248px;
   }
+  #g{
+    background-color: yellow;
+  }
+  #h {
+    background-color: orange;
+  }
   #isection{
-    float: right;
-    width: 760px;
+    width: 85vw;
     height: 150px;
   }
   #i{
-    width: 758px;
+   width: 85vw;
     height: 148px;
+    background-color: red;
   }
   
 

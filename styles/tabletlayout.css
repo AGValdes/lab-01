@@ -1,0 +1,39 @@
+@media (min-width: 780px){
+
+header{
+  background-color: pink;
+}
+
+#b{
+  background-color: lightsalmon;
+}
+
+#c{
+  background-color: palegoldenrod;
+}
+
+#d{
+  background-color: palegreen;
+}
+
+#e{
+  background-color: paleturquoise;
+}
+
+#f{
+  background-color: lightsteelblue;
+}
+
+#g{
+  background-color: lavender;
+}
+
+#h{
+  background-color: thistle;
+}
+
+#i{
+background-color: grey;
+}
+
+}
